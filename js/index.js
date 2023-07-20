@@ -29,7 +29,7 @@ const documentReady = () => {
   - que no me ignore [difícil ignorarte siendo tan genial] \n
   - que le guste el café como a mi [claro que shi] \n
   - y que sea un apoyo mutuo 🥰 [siempre] '); 
-//  heroTitle.innerHTML +=  + ' ❤';
+  heroTitle.innerHTML += partner  + ' ❤';
 
   heroButtonSi.addEventListener('click', nowZomosNobios);
   heroButtonNo.addEventListener('mouseover', evitarKCRompanMyBobo);
