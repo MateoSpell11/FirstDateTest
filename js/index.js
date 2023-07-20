@@ -8,7 +8,7 @@ const documentReady = () => {
   const nowZomosNobios = () => {
     alert('💞 lo sabía chingada madre💞');
     alert('😱Lugar, fecha y hora para ir por ti😱');
-    location.href = 'https://www.youtube.com/shorts/A8_AuLDBmKc';
+    location.href = 'https://co.pinterest.com/pin/564146290837403840/';
   };
 
   const evitarKCRompanMyBobo = () => {
