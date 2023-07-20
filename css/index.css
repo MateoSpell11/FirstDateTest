@@ -17,6 +17,10 @@ background: rgb(151, 252, 147);
   text-align: center;
 }
 
+.hero__text {
+  text-align: button;
+}
+
 .hero__image-container {
   display: flex;
   width: 100%;
